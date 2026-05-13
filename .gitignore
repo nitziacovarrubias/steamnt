@@ -1,0 +1,29 @@
+# frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# backend
+backend/**/bin/
+backend/**/obj/
+backend/.vs/
+*.user
+*.suo
+
+# general
+.vscode/
+.DS_Store
+
+# visual studio
+.vs/
+*.user
+*.suo
+
+# .NET
+bin/
+obj/
+
+# React/Vite
+node_modules/
+dist/
+.env
